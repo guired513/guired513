@@ -39,7 +39,6 @@ Supports real-world expressions, emojis, and slang using DistilBERT SST-2
 
 ## 📫 Let's Connect
 
-- 🌐 [guired.com](https://guired.com) *(optional personal site link)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/guired513)
 - 🐦 [Twitter](https://twitter.com/guired513)
 - 📧 gjvred@bicol-u.edu.ph
