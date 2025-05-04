@@ -17,6 +17,13 @@
 
 ## 🚀 Featured Projects
 
+## 🔬 AI Projects
+
+### 🐱🐶 Cat vs Dog Classifier
+A deep learning-powered image classifier built with TensorFlow and Flask. The app predicts whether the uploaded image is a cat or a dog. Live deployed on Render with Google Drive integration for model loading via `gdown`.
+
+🔗 [View Repository](https://github.com/guired513/cat-vs-dog-classifier)
+
 ### 🧠 Sentiment Analyzer – Transformers-Powered Web App
 ![License](https://img.shields.io/github/license/guired513/sentiment-analyzer?style=flat-square)
 ![Deploy](https://img.shields.io/badge/Deployed%20on-Render-blue?style=flat-square)
