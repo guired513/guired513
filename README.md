@@ -32,8 +32,15 @@ A deep learning-powered image classifier built with TensorFlow and Flask. The ap
 Classifies user-input text as `POSITIVE` or `NEGATIVE` using Hugging Face Transformers  
 Supports real-world expressions, emojis, and slang using DistilBERT SST-2
 
-🔗 [Live App](https://your-render-url.onrender.com)  
+🔗 [Live App](https://sentiment-analyzer-tfs2.onrender.com)  
 📁 [Source Code](https://github.com/guired513/sentiment-analyzer)
+
+## 🚧 Mobile App Projects
+
+### 📱 ToDo App (Flutter)
+A mobile ToDo list app with dark mode, persistent storage, and smooth animations.  
+➡️ [View on GitHub](https://github.com/guired513/todo_app)  
+📦 [Download APK]([https://drive.google.com/your-apk-link-here](https://drive.google.com/file/d/1vDKR1cSgkq7_vVtg0VRKvmuNdd6Gt3LP/view?usp=sharing))
 
 ---
 
