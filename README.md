@@ -42,6 +42,15 @@ A mobile ToDo list app with dark mode, persistent storage, and smooth animations
 ➡️ [View on GitHub](https://github.com/guired513/todo_app)  
 📦 [Download APK]([https://drive.google.com/your-apk-link-here](https://drive.google.com/file/d/1vDKR1cSgkq7_vVtg0VRKvmuNdd6Gt3LP/view?usp=sharing)
 
+## 🚧 Web Dev Projects
+
+### 📱 Portfolio Dashboard (Python)
+A multi-user portfolio sharing platform built with Flask.  
+Users can register, create their own project portfolios and skills, edit their profile (bio, avatar, website link), and interact with others through likes and comments.   
+
+🔗 [Live App](https://flask-portfolio-dashboard.onrender.com/)  
+📁 [Source Code](https://github.com/guired513/flask-portfolio-dashboard)  
+
 ---
 
 ## 📈 GitHub Stats
