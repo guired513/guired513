@@ -40,7 +40,7 @@ Supports real-world expressions, emojis, and slang using DistilBERT SST-2
 ### 📱 ToDo App (Flutter)
 A mobile ToDo list app with dark mode, persistent storage, and smooth animations.  
 ➡️ [View on GitHub](https://github.com/guired513/todo_app)  
-📦 [Download APK]([https://drive.google.com/your-apk-link-here](https://drive.google.com/file/d/1vDKR1cSgkq7_vVtg0VRKvmuNdd6Gt3LP/view?usp=sharing))
+📦 [Download APK]([https://drive.google.com/your-apk-link-here](https://drive.google.com/file/d/1vDKR1cSgkq7_vVtg0VRKvmuNdd6Gt3LP/view?usp=sharing)
 
 ---
 
