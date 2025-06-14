@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Guillermo V. Red, Jr., DIT
 
-🎓 Assistant Professor IV at Bicol University  
+🎓 Assistant Professor at Bicol University  
 💻 AI & Machine Learning Enthusiast | Web Developer | Mobile App Developer | Researcher  
 📍 Based in Albay, Philippines  
 
