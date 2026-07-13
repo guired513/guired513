@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Guillermo V. Red, Jr., DIT
 
-📝 Associate Member of the National Research Council of the Philippines
-🎓 Assistant Professor at Bicol University  
+🎓 Associate Professor at Bicol University
+📝 Associate Member of the National Research Council of the Philippines  
 💻 AI & Machine Learning Enthusiast | Web Developer | Mobile App Developer | Researcher  
 📍 Based in Albay, Philippines  
 
