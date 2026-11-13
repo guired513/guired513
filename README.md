@@ -1,70 +1,93 @@
 # 👋 Hello, I'm Guillermo V. Red, Jr., DIT
 
-> **Published Author** · Associate Professor · AI & Machine Learning Enthusiast · Web & Mobile Developer
+> Published Author • Associate Professor • AI/ML Engineer • Web & Mobile Developer
 
-I’m an Associate Professor at Bicol University, a published author, and a researcher with the National Research Council of the Philippines. I build practical AI-powered applications and web and mobile experiences, and I’m passionate about technology’s role in education and research.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/guired513)
+[![Twitter](https://img.shields.io/badge/Twitter-@guired513-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/guired513)
+[![Email](https://img.shields.io/badge/Email-gjvred%40bicol-u.edu.ph-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gjvred@bicol-u.edu.ph)
 
-📍 Albay, Philippines
+I am an Associate Professor at Bicol University, a published author, and a researcher committed to creating meaningful technology that bridges academic inquiry, real-world innovation, and practical impact. My work spans artificial intelligence, machine learning, software development, and higher education technology.
+
+📍 Based in Albay, Philippines
 
 ---
 
-## 🧭 Areas of Interest
+## 🧠 About Me
 
-- 🤖 **AI & Machine Learning:** NLP, computer vision, and Transformers
-- 📱 **Mobile development:** Flutter and React Native
-- 🌐 **Web development:** Flask, FastAPI, Node.js, and Express
-- 🗄️ **Databases:** MySQL, MongoDB, and PostgreSQL
-- 🎓 **Education and research:** higher education and instructional technology
+I enjoy building intelligent systems and user-centered digital solutions that solve real problems. My interests include:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📱 Mobile App Development
+- 🌐 Web Application Development
+- 🗄️ Backend Systems & Database Design
+- 🎓 Research, Teaching, and Instructional Technology
+
+---
+
+## 🛠️ Core Expertise
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔬 AI & Machine Learning
+### 🤖 AbleBot
+A multimodal accessibility chatbot powered by BERT, Whisper, and OCR to support persons with disabilities through intelligent assistance and accessible interaction.
 
-#### 🤖 AbleBot
-A multimodal accessibility chatbot powered by BERT, Whisper, and OCR to assist persons with disabilities.
+![AI](https://img.shields.io/badge/AI-ML%2FNLP-8A2BE2?style=flat-square)
+![Accessibility](https://img.shields.io/badge/Accessibility-AssistiveTech-0A7EA6?style=flat-square)
+![Flutter](https://img.shields.io/badge/Flutter-App-02569B?style=flat-square)
 
-🔗 [View repository](https://github.com/guired513/AbleBot)
+🔗 [View Repository](https://github.com/guired513/AbleBot)
 
-#### 🐱🐶 Cat vs Dog Classifier
-A TensorFlow and Flask image-classification app that predicts whether an uploaded image contains a cat or a dog.
+### 🐱🐶 Cat vs Dog Classifier
+A deep learning image classification application built with TensorFlow and Flask to identify whether an uploaded image is a cat or a dog.
 
-🔗 [View repository](https://github.com/guired513/cat-vs-dog-classifier)
+🔗 [View Repository](https://github.com/guired513/cat-vs-dog-classifier)
 
-#### 🧠 Sentiment Analyzer
-A web app that classifies text as `POSITIVE` or `NEGATIVE` using Hugging Face Transformers and DistilBERT SST-2, with support for everyday expressions, emojis, and slang.
+### 🧠 Sentiment Analyzer
+A Transformers-powered text classification web app that identifies whether user input is `POSITIVE` or `NEGATIVE` using DistilBERT SST-2, with support for slang, emojis, and natural expressions.
 
 ![License](https://img.shields.io/github/license/guired513/sentiment-analyzer?style=flat-square)
-![Deploy](https://img.shields.io/badge/Deployed%20on-Render-blue?style=flat-square)
+![Deployment](https://img.shields.io/badge/Deployed%20on-Render-00AEEF?style=flat-square)
 ![Model](https://img.shields.io/badge/Model-DistilBERT-orange?style=flat-square)
 
-🔗 [Try the live app](https://sentiment-analyzer-tfs2.onrender.com) · [View source code](https://github.com/guired513/sentiment-analyzer)
+🔗 [Live App](https://sentiment-analyzer-tfs2.onrender.com) • [Source Code](https://github.com/guired513/sentiment-analyzer)
 
-### 📱 Mobile Development
+### 📝 ToDo App (Flutter)
+A mobile productivity app featuring dark mode, persistent storage, and smooth interaction patterns for everyday task management.
 
-#### 📝 ToDo App · Flutter
-A mobile ToDo app featuring dark mode, persistent storage, and smooth animations.
+🔗 [GitHub Repository](https://github.com/guired513/todo_app) • [Download APK](https://drive.google.com/file/d/1vDKR1cSgkq7_vVtg0VRKvmuNdd6Gt3LP/view?usp=sharing)
 
-🔗 [View repository](https://github.com/guired513/todo_app) · [Download APK](https://drive.google.com/file/d/1vDKR1cSgkq7_vVtg0VRKvmuNdd6Gt3LP/view?usp=sharing)
+### 💻 Portfolio Dashboard
+A multi-user portfolio platform built with Flask that allows users to create profiles, showcase projects, and engage through likes and comments.
 
-### 🌐 Web Development
-
-#### 💻 Portfolio Dashboard · Flask
-A multi-user portfolio platform where people can share projects and skills, customize their profiles, and interact through likes and comments.
-
-🔗 [Visit the live app](https://flask-portfolio-dashboard.onrender.com/) · [View source code](https://github.com/guired513/flask-portfolio-dashboard)
+🔗 [Live App](https://flask-portfolio-dashboard.onrender.com/) • [Source Code](https://github.com/guired513/flask-portfolio-dashboard)
 
 ---
 
-## 📊 GitHub Stats
+## ✍️ Published Author & Research
 
-![Guillermo's GitHub stats](https://github-readme-stats.vercel.app/api?username=guired513&show_icons=true&theme=default)
-![Most-used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guired513&layout=compact)
+As a published author and academic researcher, I value the intersection of knowledge creation, evidence-based practice, and emerging technology. My work reflects a strong commitment to advancing learning, innovation, and research in technology and higher education.
 
 ---
 
-## 📫 Connect
+## 📊 GitHub Statistics
+
+![Guired513's GitHub Stats](https://github-readme-stats.vercel.app/api?username=guired513&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guired513&layout=compact)
+
+---
+
+## 📫 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/guired513)
 - 🐦 [Twitter](https://twitter.com/guired513)
@@ -72,4 +95,4 @@ A multi-user portfolio platform where people can share projects and skills, cust
 
 ---
 
-> “Turning ideas into code and research into impact.” ✨
+> “Turning ideas into code, research into impact, and innovation into meaningful solutions.” ✨
