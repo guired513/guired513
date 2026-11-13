@@ -1,12 +1,12 @@
 # 👋 Hello, I'm Guillermo V. Red, Jr., DIT
 
-> Published Author • Associate Professor • AI/ML Engineer • Web & Mobile Developer
+> Published Author • Associate Professor • Associate Member, DOST-National Research Council of the Philippines • AI/ML Engineer • Web & Mobile Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/guired513)
 [![Twitter](https://img.shields.io/badge/Twitter-@guired513-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/guired513)
 [![Email](https://img.shields.io/badge/Email-gjvred%40bicol-u.edu.ph-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:gjvred@bicol-u.edu.ph)
 
-I am an Associate Professor at Bicol University, a published author, and a researcher committed to creating meaningful technology that bridges academic inquiry, real-world innovation, and practical impact. My work spans artificial intelligence, machine learning, software development, and higher education technology.
+I am an Associate Professor at Bicol University, a published author, and an Associate Member of the DOST-National Research Council of the Philippines. I am committed to creating technology that bridges academic research, innovation, and practical impact. My work spans artificial intelligence, machine learning, software development, and higher education technology.
 
 📍 Based in Albay, Philippines
 
