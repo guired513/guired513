@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Guillermo V. Red, Jr., DIT
 
-> Published Author • Associate Professor • Associate Member, DOST-National Research Council of the Philippines • AI/ML Engineer • Web & Mobile Developer
+> Published Author • Associate Professor • Associate Member, DOST-NRCP • AI/ML Engineer • Web & Mobile Developer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/guired513)
 [![Twitter](https://img.shields.io/badge/Twitter-@guired513-1DA1F2?logo=twitter&style=for-the-badge)](https://twitter.com/guired513)
